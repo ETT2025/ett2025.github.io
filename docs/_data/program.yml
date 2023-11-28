@@ -10,7 +10,7 @@ days:
         time_end: '12:45'
       - name: Condimentum Vitae Sapien Pellentesque
         time_start: '12:45'
-        time_end: '13:30'
+        time_end: '13:00'
 
   - name: Room B
     talks:

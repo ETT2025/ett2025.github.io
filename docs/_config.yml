@@ -1,7 +1,7 @@
 title: ETT 2024
 preposition: at
 description: >-
-  International Conference on Emerging Topics in Typology \| June 10–12, 2024 \| Stockholm, Sweden
+  International PhD Conference on Emerging Topics in Typology \| June 10–12, 2024 \| Stockholm, Sweden
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ett2024.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -64,6 +64,7 @@ conference:
     logo:
       name: Stockholm University
       img: '/su_logo.png'
+#      img: <img class="img-fluid" src="/su_logo.svg" alt="img-verification">
       url: 'https://www.su.se/department-of-linguistics/'
     links:
       - name: Register
@@ -78,18 +79,35 @@ conference:
       # - name: Talks
       #   relative_url: /talks/
       #   disabled: true
-      # - name: Speakers
-      #   relative_url: /speakers/
-      #   disabled: true
-      - name: Practical information
-        relative_url: /location/
+      - name: Speakers
+        relative_url: /speakers/
         disabled: true
-      - name: Previous editions
+      - name: Practical information
         menu:
-          - name: 2024 (current)
+          - name: Location
+            relative_url: /location/
             disabled: true
-          - name: 2021
-            absolute_url: 'https://www.helsinki.fi/en/conferences/emerging-topics-typology'
+          - name: Remote participation
+            disabled: true
+          - name: Access and accommodation
+            disabled: true
+          - name: Meals
+            disabled: true
+
+      - name: Contact
+        relative_url: /contact/
+
+      - name: → ETT 2021
+        absolute_url: https://www.helsinki.fi/en/conferences/emerging-topics-typology
+
+      # - name: Previous editions
+      #   menu:
+      #     - name: 2024 (current)
+      #       disabled: true
+      #     - name: 2021
+      #       absolute_url: 'https://www.helsinki.fi/en/conferences/emerging-topics-typology'
+
+
 
   # Link Preview for Sharing
   link_preview:
@@ -102,17 +120,16 @@ conference:
   # Main landing page
   main:
     # logo:
-    #   img: ''
+    #   img: '/su_logo_portrait.svg'
     links:
-      # - name: Location
-      #   disabled: true
-      #   relative_url: /location/
-      # - name: Program
-      #   relative_url: /program/
-      #   disabled: true
-      # - name: Register
-      #   disabled: true
-      #   absolute_url: ''
+      - name: Register
+        disabled: true
+        relative_url: /register/
+      - name: Submit an abstract
+        relative_url: /submit/
+        disabled: true
+      - name: Contact
+        relative_url: /contact/
 
   # Information boxes
   info_bars:
@@ -121,9 +138,9 @@ conference:
       main_only: true
       text: |
         This website is currently under construction, and information shown may not be accurate or current.
-    - text: This website is currently under construction, and information shown may not be accurate or current.
-      color: warning
-      pages_only: true
+    # - text: This website is currently under construction, and information shown may not be accurate or current.
+    #   color: warning
+    #   pages_only: true
 
   # Live indications
   live:
@@ -142,14 +159,14 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 47.37808, 8.53935
+    home_coord: 59.36248, 18.06152
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
     map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 17
+    default_zoom: 3
 
   talks:
     # Talk categories
