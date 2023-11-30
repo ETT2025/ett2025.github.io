@@ -59,6 +59,23 @@ conference:
   # Show theme errors:
   show_errors: True
 
+  map:
+  # Initial map center point
+    home_coord: 59.36248, 18.06152
+  # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  # The following do match the Bootstrap design not too badly:
+  #   - Hydda.Full
+  #   - Thunderforest.Neighbourhood
+  #   - Esri.WorldTopoMap
+  # map_provider: "OpenStreetMap.Mapnik"
+    map_provider: "Esri.WorldTopoMap"
+    default_zoom: 1
+
+  map:
+    default_zoom: 17
+    home_coord: 47.37808, 8.53935
+    map_provider: "OpenStreetMap.Mapnik"
+
   # Navigation bar
   navigation:
     logo:
@@ -67,28 +84,29 @@ conference:
 #      img: <img class="img-fluid" src="/su_logo.svg" alt="img-verification">
       url: 'https://www.su.se/department-of-linguistics/'
     links:
+      - name: Submit
+        relative_url: /submit/
+        disabled: false
       - name: Register
         relative_url: /register/
         disabled: true
-      - name: Submit
-        relative_url: /submit/
-        disabled: true
-      - name: Program
-        relative_url: /program/
-        disabled: true
+      # - name: Program
+      #   relative_url: /program/
+      #   disabled: true
       # - name: Talks
       #   relative_url: /talks/
       #   disabled: true
-      - name: Speakers
-        relative_url: /speakers/
-        disabled: true
+      # - name: Speakers
+      #   relative_url: /speakers/
+      #   disabled: true
       - name: Practical information
         menu:
-          - name: Location
-            relative_url: /location/
-            disabled: true
+          - name: Conference venue
+            relative_url: /venue/
+            disabled: false
           - name: Remote participation
-            disabled: true
+            relative_url: /remote/
+            disabled: false
           - name: Access and accommodation
             disabled: true
           - name: Meals
@@ -122,22 +140,24 @@ conference:
     # logo:
     #   img: '/su_logo_portrait.svg'
     links:
-      - name: Register
-        disabled: true
-        relative_url: /register/
       - name: Submit an abstract
         relative_url: /submit/
+        disabled: false
+      - name: Registration opens Jan 31
         disabled: true
-      - name: Contact
-        relative_url: /contact/
+        relative_url: /register/
+      # - name: Conference venue
+      #   relative_url: /venue/
+      # - name: Contact
+      #   relative_url: /contact/
 
   # Information boxes
-  info_bars:
-    - title: Welcome to the ETT 2024 conference website!
-      color: primary
-      main_only: true
-      text: |
-        This website is currently under construction, and information shown may not be accurate or current.
+  # info_bars:
+  #   - title: Welcome to the ETT 2024 conference website!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       This website is currently under construction, and information shown may not be accurate or current.
     # - text: This website is currently under construction, and information shown may not be accurate or current.
     #   color: warning
     #   pages_only: true
@@ -156,17 +176,6 @@ conference:
       enable: false
       duration: 300  # in seconds
       pause:     10  # in seconds
-
-  map:
-    # Initial map center point
-    home_coord: 59.36248, 18.06152
-    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-    # The following do match the Bootstrap design not too badly:
-    #   - Hydda.Full
-    #   - Thunderforest.Neighbourhood
-    #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 3
 
   talks:
     # Talk categories
@@ -187,11 +196,11 @@ conference:
     # Disable links to locations
     hide: true
     # URL of location / room overview page
-    url: '/location'
+    url: '/venue'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: 'Venue'
     # Show map on location main page
-    map: true
+    map: false
 
   program:
 

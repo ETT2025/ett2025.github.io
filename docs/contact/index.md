@@ -1,20 +1,17 @@
 ---
 layout: page
+title: Contact
 ---
 
-<!-- # Contact -->
+For general conference matters: `emergingtypology{at}gmail.com`
 
-# Contact
-
-For general conference matters: --
-
-For matters regarding registration and submission of abstracts: --
+For matters regarding registration and submission of abstracts: `anastasia.panova{at}ling.su.se`
 
 For matters regarding the conference website: `amanda.kann{at}su.se` 
 
 ---
 
-## Organizing Committee
+### Organizing Committee
 *(in alphabetical order)*
 - Daria Alfimova (University of Potsdam)
 - Laurène Barbier (Université Lumière Lyon 2, CNRS-DDL)
@@ -27,4 +24,4 @@ For matters regarding the conference website: `amanda.kann{at}su.se`
 - Nora Muheim (University of Helsinki)
 - Anastasia Panova (Stockholm University)
 - Anna Sjöberg (Stockholm University)
-- Keen Thaam (Nagaland University, India)
+- Keen Thaam (Nagaland University)

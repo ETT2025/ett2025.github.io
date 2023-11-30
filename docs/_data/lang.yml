@@ -31,8 +31,8 @@ en:
       soon: soon
       now: now
   location:
-    rooms: Rooms
-    directions: Location
+    rooms: Venue
+    directions: Conference venue
     talks: Talks in this room
     focus_conf: Center map on conference location
     focus_me: Show my current location
@@ -46,8 +46,6 @@ en:
   talk:
     overview: Talks
     title: Talk
-  contact:
-    title: Contact
 
 de:
   pronoun:
