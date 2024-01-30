@@ -7,6 +7,8 @@ This page contains information about the submission process for ETT 2024, includ
 
 Submission of abstracts for ETT 2024 is done through EasyChair. To submit your abstract, please visit [**the ETT 2024 EasyChair page**](https://easychair.org/conferences/?conf=ett2024).
 
+**Please note:** the deadline for abstract submission has been extended to **February 7, 2024**.
+
 ## Call for papers
 *(published December 1, 2023; updated January 29, 2024)*
 
@@ -22,7 +24,7 @@ Accepted abstracts will be presented at the conference as 20-minute oral present
 2. [Laura Becker](https://www.linguistik.uni-freiburg.de/en/people/dr-laura-becker) (Universität Freiburg)
 
 ## Key dates
-- Deadline for abstract submission: ~~January 31~~ **February 7, 2024**
+- Deadline for abstract submission: ~~January 31~~ **February 7, 2024**, 23:59 CET
 - Notification of acceptance: **March 31, 2024**
 - Conference: **June 10--12, 2024**
 
