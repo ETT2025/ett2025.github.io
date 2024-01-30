@@ -8,12 +8,12 @@ This page contains information about the submission process for ETT 2024, includ
 Submission of abstracts for ETT 2024 is done through EasyChair. To submit your abstract, please visit [**the ETT 2024 EasyChair page**](https://easychair.org/conferences/?conf=ett2024).
 
 ## Call for papers
-*(published December 1, 2023)*
+*(published December 1, 2023; updated January 29, 2024)*
 
 The field of linguistic typology is constantly evolving, driven in part by the work of young researchers. Following on from the success of the 2021 workshop series, Emerging Topics in Typology (ETT), a conference by and for PhD students in diversity linguistics, returns for a second edition in the form of a 3-day conference from June 10th to 12th 2024. The conference will be hosted by Stockholm University in a fully hybrid mode. 
 
 We welcome abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description). Abstracts should be a maximum of 500 words (excluding references). Additional examples and figures (up to one A4 page total) may also be included. Abstracts should demonstrate a link to typological and/or descriptive themes. 
-The abstracts should be submitted via [**EasyChair**](https://easychair.org/conferences/?conf=ett2024) by **January 31, 2024**. Notifications of acceptance will be sent out by **March 31, 2024**.
+The abstracts should be submitted via [**EasyChair**](https://easychair.org/conferences/?conf=ett2024) by **February 7, 2024** (extended from January 31). Notifications of acceptance will be sent out by **March 31, 2024**.
 
 Accepted abstracts will be presented at the conference as 20-minute oral presentations, followed by 10 minutes for discussion. Presentations are welcome either on site at Stockholm University or online through Zoom.
 
@@ -22,7 +22,7 @@ Accepted abstracts will be presented at the conference as 20-minute oral present
 2. [Laura Becker](https://www.linguistik.uni-freiburg.de/en/people/dr-laura-becker) (Universität Freiburg)
 
 ## Key dates
-- Deadline for abstract submission: **January 31, 2024**
+- Deadline for abstract submission: ~~January 31~~ **February 7, 2024**
 - Notification of acceptance: **March 31, 2024**
 - Conference: **June 10--12, 2024**
 

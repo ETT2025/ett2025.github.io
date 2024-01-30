@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Following on from the success of the 2021 workshop series, _Emerging Topics in Typology_ (ETT), a conference organized by and for PhD students in diversity linguistics, returns for a second edition in the form of a 3-day conference from **June 10th to 12th, 2024**. The conference will be hosted at [Stockholm University](/venue) in a full hybrid mode -- both presenters and non-presenting participants are welcome to attend all conference sessions either on-site in Stockholm or online through Zoom. 
+Following the success of the 2021 workshop series, _Emerging Topics in Typology_ (ETT) returns for a second edition. ETT 2024 will be a 3-day conference from June 10th to 12th, 2024, organized by and for PhD students in diversity linguistics. The conference will be hosted at [Stockholm University](/venue) in a full hybrid mode -- both presenters and non-presenting participants are welcome to attend all conference sessions either on-site in Stockholm or online through Zoom. 
 
 The 3-day conference will consist of:
 - keynotes by invited speakers
@@ -13,7 +13,7 @@ The 3-day conference will consist of:
 - a conference dinner
 
 We welcome abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description).
-The [call for abstracts](/submit) is open to all current PhD students, and the deadline for submissions is **January 31, 2024**.
+The [call for abstracts](/submit) is open to all current PhD students, and the deadline for submissions is **February 7, 2024** (extended from January 31).
 
 Conference registration will be free for both online and on-site participants, and will be open to anyone with an interest in the conference topics (including non-PhD students). Registration will open on January 31, 2024.
 

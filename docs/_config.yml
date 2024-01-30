@@ -140,7 +140,7 @@ conference:
     # logo:
     #   img: '/su_logo_portrait.svg'
     links:
-      - name: Submit an abstract
+      - name: Submit an abstract (deadline Feb 7)
         relative_url: /submit/
         disabled: false
       - name: Registration opens Jan 31
