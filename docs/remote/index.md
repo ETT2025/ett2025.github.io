@@ -15,4 +15,4 @@ Remote presenters are asked to install Zoom prior to the conference, and ensure 
 
 ## Registration
 
-Conference registration opens January 31st, and will be free for both online and on-site participants. 
+Conference registration is free for both online and on-site participants. To register, please see the [**conference registration**](/register) page. 

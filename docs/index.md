@@ -15,7 +15,7 @@ The 3-day conference will consist of:
 We welcome abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description).
 The [call for abstracts](/submit) is open to all current PhD students, and the deadline for submissions is **February 7, 2024** (extended from January 31).
 
-Conference registration will be free for both online and on-site participants, and will be open to anyone with an interest in the conference topics (including non-PhD students). Registration will open on January 31, 2024.
+[Conference registration](/register) is free for both online and on-site participants, and is open to anyone with an interest in the conference topics (including non-PhD students).
 
 ETT 2024 is organized in collaboration with [the Department of Linguistics at Stockholm University](https://www.su.se/institutionen-for-lingvistik/), with funding provided by [Stockholm University's Doctoral School in the Humanities](https://www.su.se/doctoral-school-in-the-humanities/).
 

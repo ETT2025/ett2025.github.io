@@ -89,7 +89,7 @@ conference:
         disabled: false
       - name: Register
         relative_url: /register/
-        disabled: true
+        disabled: false
       # - name: Program
       #   relative_url: /program/
       #   disabled: true
@@ -143,8 +143,8 @@ conference:
       - name: Submit an abstract (deadline Feb 7)
         relative_url: /submit/
         disabled: false
-      - name: Registration opens Jan 31
-        disabled: true
+      - name: Register to attend
+        disabled: false
         relative_url: /register/
       # - name: Conference venue
       #   relative_url: /venue/
