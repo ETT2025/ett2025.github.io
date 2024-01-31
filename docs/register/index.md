@@ -3,8 +3,6 @@ layout: page
 title: Register for ETT 2024
 ---
 
-## Registration
-
 To register for ETT 2024, please fill out [**the registration form**](https://su.powerinit.com/Data/Event/EventTemplates/2602/?EventId=2901).
 
 Registration is free for both online and on-site participation, and is open to anyone with an interest in the conference topics (including non-PhD students). 
