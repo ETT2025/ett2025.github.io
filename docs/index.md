@@ -8,14 +8,13 @@ The 3-day conference will consist of:
     - [Hedvig Skirgård](https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/hedvig-skirgard/) (Max Planck Institute for Evolutionary Anthropology)
     - [Laura Becker](https://www.linguistik.uni-freiburg.de/en/people/dr-laura-becker) (Universität Freiburg)
 - presentation sessions by PhD students (selected by peer review of submitted abstracts)
-- workshops on typological research methodology by senior researchers
+- masterclasses on typological research methodology by senior researchers
 - a short excursion
 - a conference dinner
 
-We welcome abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description).
-The [call for abstracts](/submit) is open to all current PhD students, and the deadline for submissions is **February 7, 2024** (extended from January 31).
+27 abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description) have been selected for presentation at ETT 2024. A preliminary list of accepted submissions can be found on the [**Talks**](/talks/) page.
 
-[Conference registration](/register) is free for both online and on-site participants, and is open to anyone with an interest in the conference topics (including non-PhD students).
+[**Conference registration**](/register) is free for both online and on-site participants, and is open to anyone with an interest in the conference topics (including non-PhD students).
 
 ETT 2024 is organized in collaboration with [the Department of Linguistics at Stockholm University](https://www.su.se/institutionen-for-lingvistik/), with funding provided by [Stockholm University's Doctoral School in the Humanities](https://www.su.se/doctoral-school-in-the-humanities/).
 
