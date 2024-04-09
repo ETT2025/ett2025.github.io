@@ -60,7 +60,7 @@ The Organizing Committee wishes to thank those listed below for volunteering the
 - Natalia Levshina (Radboud University) 
 - Henrik Liljegren (Stockholm University) 
 - Althea Löfgren (MoDyCo, Université Paris Nanterre) 
-- Natalia Logvinova () 
+- Natalia Logvinova (Independent researcher) 
 - Dana Louagie (University of Liège) 
 - Ellison Luk (KU Leuven) 
 - Miri Mertner (University of Tübingen) 
