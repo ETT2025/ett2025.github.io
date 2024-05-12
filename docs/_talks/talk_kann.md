@@ -4,5 +4,8 @@ speakers:
   - Amanda Kann
 categories:
   - Presentation
+links:
+  - name: Abstract
+  - file: kann.pdf
 hide: true
 ---
