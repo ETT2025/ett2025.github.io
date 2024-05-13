@@ -3,7 +3,11 @@ name: "Testing trade-offs between gender and number indexing and other cues to A
 speakers:
   - Althea Löfgren
   - Natalia Levshina
+links:
+  - name: Abstract
+    relative_url: /abstracts/löfgren.pdf
+    icon: file
 categories:
   - Presentation
-hide: true
+hide: false
 ---

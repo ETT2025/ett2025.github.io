@@ -1,4 +1,4 @@
 ---
-name: Room B
+name: Hörsal 9
 hide: true
 ---

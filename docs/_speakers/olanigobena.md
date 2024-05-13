@@ -1,6 +1,6 @@
 ---
 name: Wakweya Olani Gobena
-first_name: Wakweya Olani
-last_name: Gobena
+first_name: Wakweya
+last_name: Olani Gobena
 hide: true
 ---

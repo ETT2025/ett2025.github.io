@@ -8,7 +8,7 @@ def generate_talk(line):
     bottom = [
         "categories:\n",
         "  - Presentation\n",
-        "hide: true\n",
+        "hide: false\n",
         "---"
     ]
     with open(Path(__file__).resolve().parent / "_talks" / f"talk_{authors[0].strip().split(" ", 1)[1].lower().replace(" ", "")}.md", "w") as fout:
@@ -17,6 +17,10 @@ def generate_talk(line):
         fout.write("speakers:\n")
         for author in authors:
             fout.write(f"  - {author.strip()}\n")
+        fout.write("links:\n")
+        fout.write("  - name: Abstract\n")
+        fout.write(f"    relative_url: /abstracts/{authors[0].strip().split(" ", 1)[1].lower().replace(" ", "")}.pdf\n")
+        fout.write("    icon: file\n")
         fout.writelines(bottom)
 
     for author in authors:

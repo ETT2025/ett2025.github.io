@@ -1,6 +1,6 @@
 ---
 name: Adæmrys Chihjen Cheng
-first_name: Adæmrys Chihjen
-last_name: Cheng
+first_name: Adæmrys
+last_name: Chihjen Cheng
 hide: true
 ---

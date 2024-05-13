@@ -2,4 +2,6 @@
 layout: program
 ---
 
-The main categories (or tracks) of the different talks as well as their coloring can be adapted in the `_config.yml` file under `conference.talks.main_categories`. See also the [Talk Settings](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#talk-settings-main-categories) section of the theme's README file.
+**Please note:** The below program overview is preliminary and subject to change in the weeks leading up to the conference.
+
+More information about the rooms can be found under [**Conference venue**](/venue).

@@ -89,7 +89,7 @@ conference:
         disabled: false
       # - name: Program
       #   relative_url: /program/
-      #   disabled: true
+      #   disabled: false
       - name: Talks
         relative_url: /talks/
         disabled: false
@@ -183,18 +183,20 @@ conference:
       extend:     5  # in minutes
     demo:
       enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
+      duration: 15  # in seconds
+      pause:     5  # in seconds
 
   talks:
     # Talk categories
     main_categories:
-      # - name: Keynote
-      #   color: info
-      # - name: Masterclass
-      #   color: warning
+      - name: Keynote
+        color: info
+      - name: Masterclass
+        color: warning
       - name: Presentation
         color: success
+      - name: Other
+        color: secondary
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -215,7 +217,7 @@ conference:
 
   program:
 
-    hide: true
+    hide: false
     # URL of program page
     url: '/program'
 

@@ -1,6 +1,6 @@
 ---
 name: Juan Pablo Jauregui
-first_name: Juan Pablo
-last_name: Jauregui
+first_name: Juan
+last_name: Pablo Jauregui
 hide: true
 ---

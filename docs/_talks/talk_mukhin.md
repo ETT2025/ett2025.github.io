@@ -4,7 +4,11 @@ speakers:
   - Timofey Mukhin
   - An Van Linden
   - Dana Louagie
+links:
+  - name: Abstract
+    relative_url: /abstracts/mukhin.pdf
+    icon: file
 categories:
   - Presentation
-hide: true
+hide: false
 ---
