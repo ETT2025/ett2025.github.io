@@ -5,6 +5,7 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 $primary: rgb(0, 47, 95) !default;
 
+
 @import 'conference';
 
 table {
@@ -16,16 +17,17 @@ table {
 }
 
 table td + td{
-width: 65%;
+width: 10%;
+}
+
+table td + td{
+width: 70%;
 }
 
 table td + td + td{
-width: 15%;
+width: 20%;
 }
 
-table td + td + td + td{
-width: 10%;
-}
 
 h6 {
   text-align: center;
