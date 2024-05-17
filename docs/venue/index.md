@@ -32,7 +32,7 @@ A map and detailed directions can be found [**on Språkstudion's website**](http
 
 Stockholm is the capital city of Sweden, easily accessible by [train](https://www.seat61.com/international-trains/trains-from-Stockholm.htm) (to Stockholm Central), bus (to Stockholm Cityterminalen) ferry (via any Swedish port), or [plane](https://visitsweden.com/about-sweden/getting-and-airports/) (via Stockholm Arlanda/Skavsta or Copenhagen Airport). 
 
-Additional information about access and accommodation options will be available under *Practical information* closer to the conference dates.
+Information about accommodation options is available under [**Accommodation**](/accommodation/).
 
 <!-- How to get to the conference
 
