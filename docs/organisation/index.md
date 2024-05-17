@@ -3,7 +3,7 @@ layout: page
 title: Organisation
 ---
 
-### Organizing Committee
+#### Organizing Committee
 *(in alphabetical order)*
 - Daria Alfimova (University of Potsdam)
 - Laurène Barbier (Université Lumière Lyon 2, CNRS-DDL)
@@ -18,7 +18,7 @@ title: Organisation
 - Anna Sjöberg (Stockholm University)
 - Keen Thaam (Nagaland University)
 
-### Scientific Committee
+#### Scientific Committee
 The Organizing Committee wishes to thank those listed below for volunteering their time and expertise to aid in the review process.
 
 *(in alphabetical order)*

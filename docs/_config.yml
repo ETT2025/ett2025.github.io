@@ -87,12 +87,12 @@ conference:
       - name: Register
         relative_url: /register/
         disabled: false
-      # - name: Program
-      #   relative_url: /program/
-      #   disabled: false
-      - name: Talks
-        relative_url: /talks/
+      - name: Program
+        relative_url: /program/
         disabled: false
+      # - name: Talks
+      #  relative_url: /talks/
+      #  disabled: false
       # - name: Speakers
       #   relative_url: /speakers/
       #   disabled: false
@@ -101,11 +101,12 @@ conference:
           - name: Conference venue
             relative_url: /venue/
             disabled: false
+          - name: Accommodation
+            relative_url: /accommodation/
+            disabled: false
           - name: Remote participation
             relative_url: /remote/
             disabled: false
-          - name: Access and accommodation
-            disabled: true
           - name: Meals
             disabled: true
       
@@ -142,12 +143,15 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: '/su_logo_portrait.svg'
+    #logo:
+    #  img: '/wordcloud_map1.png'
     links:
-      - name: View accepted submissions
-        relative_url: /talks/
+      # - name: View accepted submissions
+      #   relative_url: /talks/
+      #   disabled: false
+      - name: Program
         disabled: false
+        relative_url: /program/
       - name: Register to attend
         disabled: false
         relative_url: /register/
@@ -157,16 +161,16 @@ conference:
       #   relative_url: /contact/
 
   # Information boxes
-  info_bars:
-    - title: Notifications of acceptance have been sent out!
-      color: primary
-      main_only: true
-      text: |
-        Abstract notifications were sent out on March 28th. A preliminary list of accepted submissions can be found on the [**Talks**](/talks/) page.
+  # info_bars:
+  #   - title: Notifications of acceptance have been sent out!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       Abstract notifications were sent out on March 28th. A preliminary list of accepted submissions can be found on the [**Talks**](/talks/) page.
         
-        Authors of accepted submissions are asked to confirm their participation and mode of attendance (through [email](/contact/)) by **April 11th**, and upload the final version of their abstract to [EasyChair](https://easychair.org/conferences/?conf=ett2024) by **April 30th**.
+  #       Authors of accepted submissions are asked to confirm their participation and mode of attendance (through [email](/contact/)) by **April 11th**, and upload the final version of their abstract to [EasyChair](https://easychair.org/conferences/?conf=ett2024) by **April 30th**.
 
-        We thank [the Scientific Committee members](/organisation/) for volunteering their time and expertise to aid in the review process.
+  #       We thank [the Scientific Committee members](/organisation/) for volunteering their time and expertise to aid in the review process.
     # - text: This website is currently under construction, and information shown may not be accurate or current.
     #   color: warning
     #   pages_only: true

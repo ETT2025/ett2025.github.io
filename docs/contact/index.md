@@ -11,7 +11,7 @@ For matters regarding the conference website: `amanda.kann{at}su.se`
 
 ---
 
-### Organizing Committee
+#### Organizing Committee
 *(in alphabetical order)*
 - Daria Alfimova (University of Potsdam)
 - Laurène Barbier (Université Lumière Lyon 2, CNRS-DDL)
