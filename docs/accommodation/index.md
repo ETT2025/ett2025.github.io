@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accomodation
+title: Accommodation
 ---
 
 Here you will find a list of hotels and hostels located near the conference venue and/or with good transport connections to it. The prices are approximate.
