@@ -87,12 +87,12 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 
 
 |---|---|---|
-| 11:00-11:30 | **_Alice Bondarenko_** | Annika Tjuka  |
-|  | [Reciprocal-sociative coexpression and lexical semantics](/abstracts/bondarenko.pdf) (on-site) |  |
+| 11:00-11:30 | **_Wakweya Olani Gobena_** | Henrik Bergqvist |
+|  | [The verbs ‘to have’ and ‘to exist’ in Oromo with comparison to Amharic: periphrastic possessive predicates](/abstracts/olanigobena.pdf) (on-site) |  |
 | 11:30-12:00 | **_Silvie Strauss_** | Anetta Kopecka |
 |  | [From knowledge to possibility: structural correlates of semantic change](/abstracts/strauss.pdf) (on-site) |  |
-| 12:00-12:30 | **_Wakweya Olani Gobena_** | Henrik Bergqvist |
-|  | [The verbs ‘to have’ and ‘to exist’ in Oromo with comparison to Amharic: periphrastic possessive predicates](/abstracts/olanigobena.pdf) (on-site) |  |
+| 12:00-12:30 | **_Alice Bondarenko_** | Annika Tjuka  |
+|  | [Reciprocal-sociative coexpression and lexical semantics](/abstracts/bondarenko.pdf) (on-site) |  |
 
 
 
@@ -103,7 +103,7 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 
 | 13:45 - 14:45 | KEYNOTE TALK in Hörsal 9 / online |  |
 |  | **_Hedvig Skirgård_** |  |
-|  | TBA |  |
+|  | Getting to the why — new additions to the linguist's toolkit |  |
 
 
 &nbsp;
