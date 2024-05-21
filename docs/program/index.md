@@ -127,7 +127,7 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 | 17:00-17:30 | **_John Hutchinson_** | Volker Gast |
 |  | [The Typology of Case Systems: evidence from Gàidhlig and Hungarian](/abstracts/hutchinson.pdf) (on-site) |  |
 | 17:30-18:00 | **_Althea Löfgren, Natalia Levshina_** | TBA |
-|  | [Testing trade-offs between gender and number indexing and other cues to A and P arguments: A corpus-based perspective.](/abstracts/löfgren.pdf) (on-site )|  |
+|  | [Testing trade-offs between gender and number indexing and other cues to A and P arguments: A corpus-based perspective](/abstracts/löfgren.pdf) (on-site)|  |
 
 
 
