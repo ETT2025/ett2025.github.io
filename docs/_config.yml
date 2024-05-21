@@ -1,7 +1,7 @@
 title: ETT 2024
 preposition: at
-description: >-
-  International PhD Conference on Emerging Topics in Typology \| June 10–12, 2024 \| Stockholm, Sweden
+#description: >-
+#  International PhD Conference on Emerging Topics in Typology \| June 10–12, 2024 \| Stockholm, Sweden
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ett2024.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -143,8 +143,8 @@ conference:
 
   # Main landing page
   main:
-    #logo:
-    #  img: '/wordcloud_map1.png'
+    logo:
+      img: '/ETT_Website.png'
     links:
       # - name: View accepted submissions
       #   relative_url: /talks/
