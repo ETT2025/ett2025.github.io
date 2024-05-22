@@ -3,7 +3,7 @@ layout: page
 title: Program
 ---
 
-**Please note:** The below program overview is preliminary and subject to change in the weeks leading up to the conference.
+**Please note:** The below program overview is preliminary and subject to change in the weeks leading up to the conference. All times are given in Stockholm time (CEST).
 
 All the talks will be held in Språkparken (E231), the keynotes will be held in Hörsal 9. More information about the rooms can be found under [**Conference venue**](/venue).
 
@@ -27,8 +27,8 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 |---|---|---|
 | 11:00-11:30 | **_Miri Mertner_** | Michael Dunn |
 |  | [Variation in the spatial diffusion of structural aspects of language: A case study](/abstracts/mertner.pdf) (on-site)|  |
-| 11:30-12:00 | **_Frederic Blum_** | Laura Becker |
-|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
+| 11:30-12:00 | **_Althea Löfgren, Natalia Levshina_** | Harald Hammarström |
+|  | [Testing trade-offs between gender and number indexing and other cues to A and P arguments: A corpus-based perspective](/abstracts/löfgren.pdf) (on-site)|  |
 | 12:00-12:30 | **_Tessa Vermeir, Marc Allassonnière-Tang_** | Annemarie Verkerk |
 |  | [Lexical cluster analysis of 10 Bantu A80 languages](/abstracts/vermeir.pdf) (on-site)|  |
 
@@ -126,8 +126,8 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 |---|---|---|
 | 17:00-17:30 | **_John Hutchinson_** | Volker Gast |
 |  | [The Typology of Case Systems: evidence from Gàidhlig and Hungarian](/abstracts/hutchinson.pdf) (on-site) |  |
-| 17:30-18:00 | **_Althea Löfgren, Natalia Levshina_** | TBA |
-|  | [Testing trade-offs between gender and number indexing and other cues to A and P arguments: A corpus-based perspective](/abstracts/löfgren.pdf) (on-site)|  |
+| 17:30-18:00 | **_Frederic Blum_** | Laura Becker |
+|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
 
 
 
