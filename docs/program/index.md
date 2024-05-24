@@ -47,7 +47,7 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 |---|---|---|
 | 15:00-15:30 | **_Cat Butz_** | Mary Walworth |
 |  | [Dalkalaen (Oceanic): Articulatory variation shaped by phonological contrastivity, and vice-versa](/abstracts/butz.pdf) (online)|  |
-| 15:30-16:00 | **_Anne van Schie_** | TBA |
+| 15:30-16:00 | **_Anne van Schie_** | Nicolas Quint |
 |  | [A new approach to Yawa-Saweru prosody](/abstracts/vanschie.pdf) (on-site) |  |
 | 16:00-16:30 | **_David Ginebra_** | Sandra Auderset |
 |  | [The third high vowel in Yamalero (Guahiban): arguments favouring /ɯ/ instead of /ɨ/](/abstracts/ginebra.pdf) (online) |  |
