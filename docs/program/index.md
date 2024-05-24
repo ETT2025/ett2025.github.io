@@ -115,8 +115,8 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 |  | [Correlative clauses in Gawarbati (Indo-Aryan): multifunctionality and possible evolution](/abstracts/panova.pdf) (on-site)|  |
 | 15:30-16:00 | **_Amanda Kann_** | Hedvig Skirgård  |
 |  | [Translationese in the Parallel Bible Corpus: Evaluating Extracted Word Order Features from Translated Texts](/abstracts/kann.pdf) (on-site)|  |
-| 16:00-16:30 | **_Anastasiia Dmitrieva_** | TBA  |
-|  | [Accounting for the variation of causal meaning across clause types in Polybian Greek](/abstracts/dmitrieva.pdf) (on-site) |  |
+| 16:00-16:30 | **_Frederic Blum_** | Laura Becker |
+|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
 
 
 
@@ -126,8 +126,8 @@ All the talks will be held in Språkparken (E231), the keynotes will be held in 
 |---|---|---|
 | 17:00-17:30 | **_John Hutchinson_** | Volker Gast |
 |  | [The Typology of Case Systems: evidence from Gàidhlig and Hungarian](/abstracts/hutchinson.pdf) (on-site) |  |
-| 17:30-18:00 | **_Frederic Blum_** | Laura Becker |
-|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
+| 17:30-18:00 | **_Anastasiia Dmitrieva_** | Östen Dahl  |
+|  | [Accounting for the variation of causal meaning across clause types in Polybian Greek](/abstracts/dmitrieva.pdf) (on-site) |  |
 
 
 
