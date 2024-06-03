@@ -40,7 +40,9 @@ Download the program in [**PDF**](/program.pdf).
 
 | 13:45 -- 14:45 | KEYNOTE TALK in Hörsal 9 / online|  | 
 |  | **_Laura Becker_** |  |
-|  | Spoken typology: integrating phonetics, prosody and grammar |  |
+|  | [Spoken typology: Integrating phonetics and grammar](becker) |  |
+
+
 
 
 &nbsp;
@@ -104,7 +106,7 @@ Download the program in [**PDF**](/program.pdf).
 
 | 13:45 - 14:45 | KEYNOTE TALK in Hörsal 9 / online |  |
 |  | **_Hedvig Skirgård_** |  |
-|  | Getting to the why — new additions to the linguist's toolkit |  |
+|  | [Two ways in which linguistic typology is not butterfly collection](skirgård) |  |
 
 
 &nbsp;
