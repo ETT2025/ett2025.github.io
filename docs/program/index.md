@@ -50,7 +50,7 @@ Download the program in [**PDF**](/program.pdf).
 |---|---|---|
 | 15:00-15:30 | **_Cat Butz_** | Mary Walworth |
 |  | [Dalkalaen (Oceanic): Articulatory variation shaped by phonological contrastivity, and vice-versa](/abstracts/butz.pdf) (online)|  |
-| 15:30-16:00 | **_Anne van Schie_** | TBA |
+| 15:30-16:00 | **_Anne van Schie_** | Nicolas Quint |
 |  | [A new approach to Yawa-Saweru prosody](/abstracts/vanschie.pdf) (on-site) |  |
 | 16:00-16:30 | **_David Ginebra_** | Sandra Auderset |
 |  | [The third high vowel in Yamalero (Guahiban): arguments favouring /ɯ/ instead of /ɨ/](/abstracts/ginebra.pdf) (online) |  |
@@ -118,8 +118,8 @@ Download the program in [**PDF**](/program.pdf).
 |  | [Correlative clauses in Gawarbati (Indo-Aryan): multifunctionality and possible evolution](/abstracts/panova.pdf) (on-site)|  |
 | 15:30-16:00 | **_Amanda Kann_** | Hedvig Skirgård  |
 |  | [Translationese in the Parallel Bible Corpus: Evaluating Extracted Word Order Features from Translated Texts](/abstracts/kann.pdf) (on-site)|  |
-| 16:00-16:30 | **_Anastasiia Dmitrieva_** | TBA  |
-|  | [Accounting for the variation of causal meaning across clause types in Polybian Greek](/abstracts/dmitrieva.pdf) (on-site) |  |
+| 16:30-17:00 | **_Frederic Blum_** | Laura Becker |
+|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
 
 
 
@@ -129,8 +129,9 @@ Download the program in [**PDF**](/program.pdf).
 |---|---|---|
 | 17:00-17:30 | **_John Hutchinson_** | Volker Gast |
 |  | [The Typology of Case Systems: evidence from Gàidhlig and Hungarian](/abstracts/hutchinson.pdf) (on-site) |  |
-| 17:30-18:00 | **_Frederic Blum_** | Laura Becker |
-|  | [Generalizability and Reproduction in Quantitative Typology: A Case Study on Sound Symbolism](/abstracts/blum.pdf) (on-site) |  |
+
+| 17:30-18:00 | **_Anastasiia Dmitrieva_** | Östen Dahl  |
+|  | [Accounting for the variation of causal meaning across clause types in Polybian Greek](/abstracts/dmitrieva.pdf) (on-site) |  |
 
 
 
