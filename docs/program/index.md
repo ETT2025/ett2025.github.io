@@ -155,8 +155,8 @@ Download the program in [**PDF**](/program.pdf).
 |  | [A typological study of applicative uses of spatial markers](/abstracts/mukhin.pdf) (on-site)|  |
 | 9:30-10:00 | **_Adæmrys Chihjen Cheng_** | Östen Dahl  |
 |  | [The Strategy of Comparative Constructions in Enlhet](/abstracts/chihjencheng.pdf) (online)|  |
-| 10:00-10:30 | **_Niklas Wiskandt_** | Dana Louagie |
-|  | [A typological perspective on morphological and periphrastic combinations of valency operations](/abstracts/wiskandt.pdf) (online) |  |
+| 10:00-10:30 | ~~**_Niklas Wiskandt_**~~ | ~~Dana Louagie~~ |
+|  | [~~A typological perspective on morphological and periphrastic combinations of valency operations~~ (CANCELLED)(/abstracts/wiskandt.pdf) (online) |  |
 
 
 ###### 10:30 -- 11:00 COFFEE BREAK
