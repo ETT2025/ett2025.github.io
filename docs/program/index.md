@@ -177,7 +177,7 @@ Download the program in [**PDF**](/program.pdf).
 
 | 13:45 -- 15:15 | Masterclass on parallel corpora and computational methods in Studio 2 / online |  |
 |  | **_Robert Östling_** |  |
-|  | TBA |  |
+|  | [**Masterclass resources**](http://robos.org/ett2024/) |  |
 
 
 ###### 16:30 EXCURSION
