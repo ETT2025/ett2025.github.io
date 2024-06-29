@@ -84,9 +84,9 @@ conference:
 #      img: <img class="img-fluid" src="/su_logo.svg" alt="img-verification">
       url: 'https://www.su.se/department-of-linguistics/'
     links:
-      - name: Register
-        relative_url: /register/
-        disabled: false
+      # - name: Register
+      #  relative_url: /register/
+      #  disabled: false
       - name: Program
         relative_url: /program/
         disabled: false
@@ -107,9 +107,9 @@ conference:
           - name: Remote participation
             relative_url: /remote/
             disabled: false
-          - name: Meals
-            disabled: true
-      
+      - name: Photos
+        relative_url: /photos/
+        disabled: false     
       - name: CfP
         relative_url: /submit/
         disabled: false
@@ -152,9 +152,9 @@ conference:
       - name: Program
         disabled: false
         relative_url: /program/
-      - name: Register to attend
-        disabled: false
-        relative_url: /register/
+      # - name: Register to attend
+      #   disabled: false
+      #   relative_url: /register/
       # - name: Conference venue
       #   relative_url: /venue/
       # - name: Contact
