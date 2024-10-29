@@ -2,21 +2,29 @@
 layout: home
 ---
 
-Following the success of the 2021 workshop series, _Emerging Topics in Typology_ (ETT) returns for a second edition. ETT 2024 will be a 3-day conference from June 10th to 12th, 2024, organized by and for PhD students in diversity linguistics. The conference will be hosted at [Stockholm University](/venue) in a full hybrid mode -- both presenters and non-presenting participants are welcome to attend all conference sessions either on-site in Stockholm or online through Zoom. 
+Submission of abstracts for ETT 2025 is done through EasyChair. To submit your abstract, please visit the **ETT 2025 EasyChair page**.
 
-The 3-day conference will consist of:
-- keynotes by invited speakers
-    - [Hedvig Skirgård](https://www.eva.mpg.de/linguistic-and-cultural-evolution/staff/hedvig-skirgard/) (Max Planck Institute for Evolutionary Anthropology)
-    - [Laura Becker](https://www.linguistik.uni-freiburg.de/en/people/dr-laura-becker) (Universität Freiburg)
-- presentation sessions by PhD students (selected by peer review of submitted abstracts)
-- masterclasses on typological research methodology by senior researchers
-- a short excursion
-- a conference dinner
+# **Call for papers**
+## **Call Deadline: XXXX**
 
-27 abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description) have been selected for presentation at ETT 2024.
+Following the success of the 2021 workshop series and the 2024 conference, Emerging Topics in Typology (ETT) 2025 will return for a third edition in Leipzig, from June 3rd–5th 2025. This is a conference organised by and for PhD students in diversity linguistics and typology. The conference will be in a full hybrid mode, and both presents and non-presenting participants are welcome to attend all conference sessions either on-site in Leipzig or online.
 
+We welcome abstracts on a range of topics in diversity linguistics (quantitative and qualitative typology, language documentation and description), and particularly welcome talks on ongoing projects and works in progress. The call for abstracts is open to all current PhD students, and the deadline for submissions is XXXX.
 
-[**Conference registration**](/register) is free for both online and on-site participants, and is open to anyone with an interest in the conference topics (including non-PhD students).
+Abstracts should be a maximum of 500 words (excluding references). Additional examples and figures (up to one A4 page total) may also be included. Abstracts should demonstrate a link to typological and/or descriptive themes. The abstracts should be submitted via EasyChair (XXXXlinkXXXX) by XXXX. Notification of acceptance will be sent out by XXXX.
 
-ETT 2024 is organized in collaboration with [the Department of Linguistics at Stockholm University](https://www.su.se/institutionen-for-lingvistik/), with funding provided by [Stockholm University's Doctoral School in the Humanities](https://www.su.se/doctoral-school-in-the-humanities/).
+Accepted abstracts will be presented at the conference as 20-minute oral presentations, followed by 10 minutes for discussion. Presentations are welcome either on site at Leipzig University or online through Zoom.
+Conference registration will be free for both online and on-site participants, and will be open to anyone with an interest in the conference topics (including non-PhD students). 
+
+ETT 2025 is organized in collaboration with the XXLeipzigXX, with funding provided by XXLeipzigXX.
+
+For more information, see the website of the conference: XXXX.
+
+# **Key dates**
+Deadline for abstract submission: **XXXX**
+Notification of acceptance: **XXXX**
+Registration: opens XXXX; ends XXXX for on-site registration. After this date, only online registration will be possible.
+Conference: **June 3rd–5th, 2025**
+
+# **Contact**
 
