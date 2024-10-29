@@ -100,13 +100,13 @@ conference:
         menu:
           - name: Conference venue
             relative_url: /venue/
-            disabled: false
+            disabled: true
           - name: Accommodation
             relative_url: /accommodation/
-            disabled: false
+            disabled: true
           - name: Remote participation
             relative_url: /remote/
-            disabled: false
+            disabled: true
       - name: Photos
         relative_url: /photos/
         disabled: true     
@@ -116,7 +116,7 @@ conference:
 
       - name: Organisation
         relative_url: /organisation/
-        disabled: false
+        disabled: true
 
       - name: Contact
         relative_url: /contact/
