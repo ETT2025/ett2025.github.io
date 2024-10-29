@@ -89,13 +89,13 @@ conference:
       #  disabled: false
       - name: Program
         relative_url: /program/
-        disabled: false
+        disabled: true
       # - name: Talks
       #  relative_url: /talks/
-      #  disabled: false
+      #  disabled: true
       # - name: Speakers
       #   relative_url: /speakers/
-      #   disabled: false
+      #   disabled: true
       - name: Practical information
         menu:
           - name: Conference venue
@@ -109,7 +109,7 @@ conference:
             disabled: false
       - name: Photos
         relative_url: /photos/
-        disabled: false     
+        disabled: true     
       - name: CfP
         relative_url: /submit/
         disabled: false
@@ -123,6 +123,8 @@ conference:
 
       - name: → ETT 2021
         absolute_url: https://www.helsinki.fi/en/conferences/emerging-topics-typology
+      - name: → ETT 2024
+        absolute_url: https://ett2024.github.io/
 
       # - name: Previous editions
       #   menu:
@@ -150,7 +152,7 @@ conference:
       #   relative_url: /talks/
       #   disabled: false
       - name: Program
-        disabled: false
+        disabled: true
         relative_url: /program/
       # - name: Register to attend
       #   disabled: false
@@ -162,14 +164,6 @@ conference:
 
   # Information boxes
   # info_bars:
-  #   - title: Notifications of acceptance have been sent out!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       Abstract notifications were sent out on March 28th. A preliminary list of accepted submissions can be found on the [**Talks**](/talks/) page.
-        
-  #       Authors of accepted submissions are asked to confirm their participation and mode of attendance (through [email](/contact/)) by **April 11th**, and upload the final version of their abstract to [EasyChair](https://easychair.org/conferences/?conf=ett2024) by **April 30th**.
-
   #       We thank [the Scientific Committee members](/organisation/) for volunteering their time and expertise to aid in the review process.
     # - text: This website is currently under construction, and information shown may not be accurate or current.
     #   color: warning
@@ -221,7 +215,7 @@ conference:
 
   program:
 
-    hide: false
+    hide: true
     # URL of program page
     url: '/program'
 
